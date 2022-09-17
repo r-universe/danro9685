@@ -8,8 +8,3 @@
 	url = https://github.com/danro9685/oncoscore
 	shallow = true
 	registered = true
-[submodule "SparseSignatures"]
-	path = SparseSignatures
-	url = https://github.com/danro9685/sparsesignatures
-	shallow = true
-	registered = true
