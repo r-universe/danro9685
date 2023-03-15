@@ -3,9 +3,9 @@
     "package": "OncoScore"
   },
   {
-    "package": "RESOLVE"
+    "package": "SparseSignatures"
   },
   {
-    "package": "SparseSignatures"
+    "package": "RESOLVE"
   }
 ]
