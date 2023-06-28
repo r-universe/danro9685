@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "OncoScore"]
 	path = OncoScore
 	url = https://github.com/danro9685/oncoscore
-	shallow = true
-	registered = true
 [submodule "RESOLVE"]
 	path = RESOLVE
 	url = https://github.com/danro9685/resolve
-	shallow = true
-	registered = true
 [submodule "SparseSignatures"]
 	path = SparseSignatures
 	url = https://github.com/danro9685/sparsesignatures
-	shallow = true
-	registered = true
